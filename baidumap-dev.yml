@@ -1,0 +1,26 @@
+app:
+  ak: GFkH6BbU2te9uwznlF0Br4dwlD50jOG2
+lbs:
+  geotable:
+    tv4: 
+      create: http://api.map.baidu.com/geodata/v4/geotable/create
+      list: http://api.map.baidu.com/geodata/v4/geotable/list
+      detail: http://api.map.baidu.com/geodata/v4/geotable/detail
+      update: http://api.map.baidu.com/geodata/v4/geotable/update
+      delete: http://api.map.baidu.com/geodata/v4/geotable/delete
+      column: 
+        create: http://api.map.baidu.com/geodata/v4/column/create
+        list: http://api.map.baidu.com/geodata/v4/column/list
+        detail: http://api.map.baidu.com/geodata/v4/column/detail
+        update: http://api.map.baidu.com/geodata/v4/column/update
+        delete: http://api.map.baidu.com/geodata/v4/column/delete
+      poi:
+        create: http://api.map.baidu.com/geodata/v4/poi/create
+        list: http://api.map.baidu.com/geodata/v4/poi/list
+        detail: http://api.map.baidu.com/geodata/v4/poi/detail
+        update: http://api.map.baidu.com/geodata/v4/poi/update
+        delete: http://api.map.baidu.com/geodata/v4/poi/delete
+        upload: http://api.map.baidu.com/geodata/v4/poi/upload
+      job: 
+        list: http://api.map.baidu.com/geodata/v4/job/list
+      
