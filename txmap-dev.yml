@@ -2,17 +2,19 @@ app:
   ak: 7QLBZ-SW6KX-USG4Y-7RP4V-UB6FJ-VMFB6
 placeCloud:
   table:
-    list: https://apis.map.qq.com/place_cloud/table/list
-    data:
-      create: https://apis.map.qq.com/place_cloud/data/create
-      update: https://apis.map.qq.com/place_cloud/data/update
-      delete: https://apis.map.qq.com/place_cloud/data/delete
-      list: https://apis.map.qq.com/place_cloud/data/list
+    tv1:
+      list: https://apis.map.qq.com/place_cloud/table/list
+      data:
+        create: https://apis.map.qq.com/place_cloud/data/create
+        update: https://apis.map.qq.com/place_cloud/data/update
+        delete: https://apis.map.qq.com/place_cloud/data/delete
+        list: https://apis.map.qq.com/place_cloud/data/list
   search: 
-    nearby: https://apis.map.qq.com/place_cloud/search/nearby
-    region: https://apis.map.qq.com/place_cloud/search/region
-    rectangle: https://apis.map.qq.com/place_cloud/search/rectangle
-    contain: https://apis.map.qq.com/place_cloud/search/contain
+    sv1:
+      nearby: https://apis.map.qq.com/place_cloud/search/nearby
+      region: https://apis.map.qq.com/place_cloud/search/region
+      rectangle: https://apis.map.qq.com/place_cloud/search/rectangle
+      contain: https://apis.map.qq.com/place_cloud/search/contain
     
       
   
