@@ -1,0 +1,12 @@
+app:
+  ak: 7QLBZ-SW6KX-USG4Y-7RP4V-UB6FJ-VMFB6
+placeCloud:
+  table:
+    list: https://apis.map.qq.com/place_cloud/table/list
+    data:
+      create: https://apis.map.qq.com/place_cloud/data/create
+      update: https://apis.map.qq.com/place_cloud/data/update
+      delete: https://apis.map.qq.com/place_cloud/data/delete
+      list: https://apis.map.qq.com/place_cloud/data/list
+      
+  
